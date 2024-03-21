@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/hibiken/asynq"
-	"github.com/hibiken/asynqmon"
+	"github.com/fresh8gaming/asynqmon"
 )
 
 func ExampleHTTPHandler() {
